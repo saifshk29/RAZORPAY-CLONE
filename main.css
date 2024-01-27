@@ -1,7 +1,11 @@
+/* main.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
 
 @tailwind base;
 
 @tailwind components;
 
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+
+/* Additional styles go here if needed */
