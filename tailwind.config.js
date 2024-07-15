@@ -3,7 +3,7 @@ module.exports = {
   purge:[
     '*.html'
   ],
-  content: ["*.html"],
+  content: ["index.html"],
   theme: {
     extend: {
       fontFamily: {
